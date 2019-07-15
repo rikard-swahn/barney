@@ -2,7 +2,7 @@
 
 Welcome to the support page for game Barney's Dream Cruise.
 
-[Walkthrough]({{site.baseurl}}/Barney's Dream Cruise Walkthrough.pdf)
+[Walkthrough]({{site.baseurl}}/Barneys-Dream-Cruise-Walkthrough.pdf)
 
 ### Contact
 
